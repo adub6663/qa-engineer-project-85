@@ -33,6 +33,3 @@ const solution = (width, length) => {
 };
 
 module.exports = solution;
-
-
-- 
