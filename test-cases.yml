@@ -113,7 +113,7 @@
   requirement: |
     При вводе корректных email и пароля пользователь должен войти в систему
   prerequisites:
-    Пользователь зарегистрирован с данными:  Email: "user111@gmail.com", пароль "qwerty1234"
+    Пользователь зарегистрирован с данными: Email: "user111@gmail.com", пароль "qwerty1234"
     Открыта страница входа Codebattle
   test-data: |
     Email: "user111@gmail.com"
